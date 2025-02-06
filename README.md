@@ -8,6 +8,12 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzanahqtech" alt="farzanahqtech" /></a>
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/farzanatech.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="farzanatech.com" height="30" width="40" /></a>
+<a href="https://farzanatech.com" target="blank"><img align="center" src="https://img.icons8.com/ios/452/domain.png" alt="farzanatech.com" height="30" width="40" /></a>
+<a href="mailto:farzana.tech24@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios/452/mail.png" alt="farzanatech.com" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on **ERP Project** and **Full-stack Web Development**.
 - 🔭 I’m currently working on **HRM Project** and **Full-stack Web Development**.
